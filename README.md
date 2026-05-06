@@ -72,9 +72,16 @@ const letruc = {
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Cache
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### 🔄 Realtime
+<p>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Workflow
@@ -131,12 +138,15 @@ const letruc = {
 - 💳 Payment processing (payment gateway integration)
 - 🌳 **Multi-level marketing (MLM) commission** with multi-tier genealogy tree
 - 📊 Real-time dashboards & reporting
+- ⚡ **Realtime updates** via **WebSocket** (live notifications, dashboard data, transaction status)
+- 🚀 **Redis caching** for high-frequency reads, session storage & rate limiting
 
 **👨‍💻 My Role**
 - 🎨 Owned **100% of the frontend** (Next.js) – from UI/UX design to performance optimization
 - 🤝 Collaborated directly with the **Python (FastAPI) backend** team and **PHP WordPress API** team
 - 🗣️ Worked directly with the **client** to finalize **business logic** and **UI requirements**
 - 🔄 Reviewed and proposed improvements to the data flow between frontend and backend
+- 🔌 Integrated **WebSocket** client on the frontend for realtime data sync across modules
 
 **🧱 Tech Stack**
 <p>
@@ -145,6 +155,8 @@ const letruc = {
   <img src="https://img.shields.io/badge/WordPress%20API-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
 
 > 🔐 *Source code and client details are not publicly available due to contractual obligations.*
@@ -168,12 +180,15 @@ const letruc = {
 - 💸 Payment gateway integration & transaction processing
 - 🌳 **Multi-level marketing (MLM)** module – commission calculation & tree visualization
 - 📈 Performance optimization for systems with high concurrent user load
+- ⚡ **Realtime processing** via **WebSocket** – instant payment status, balance updates & user notifications
+- 🚀 **Redis caching** for hot data (user sessions, MLM tree, transaction lookups) to reduce DB load under high concurrency
 
 **👨‍💻 My Role**
 - 🎨 Owned **100% of the frontend** (Next.js) – component architecture, state management, performance tuning
 - 🤝 Collaborated with the **Python (FastAPI) backend** team for the core API and **PHP WordPress** for the MLM commission module
 - 🗣️ Worked directly with the **client** to deeply understand **business logic** and finalize **UI/UX expectations**
 - 🧩 Proposed API and UI structures suited for 5K+ concurrent users
+- 🔌 Implemented **WebSocket** client with reconnect strategy and event-driven UI updates for realtime flows
 
 **🧱 Tech Stack**
 <p>
@@ -182,6 +197,8 @@ const letruc = {
   <img src="https://img.shields.io/badge/WordPress%20API-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
 
 > 🔐 *Source code and client details are not publicly available due to contractual obligations.*

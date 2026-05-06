@@ -66,7 +66,7 @@ export const profile = {
   funFact: "Solving real business problems is more fun than chasing trends.",
   siteUrl:
     process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-    "https://nongdandev.com",
+    "https://www.nongdandev.com",
 };
 
 export const heroCode = `const letruc = {

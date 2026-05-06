@@ -56,6 +56,7 @@ export type TechGroup = {
 
 export const profile = {
   name: "letrucdev",
+  fullName: "Le Truc",
   role: "Full-Stack Developer",
   location: "Hoan Kiem, Vietnam",
   email: "letruc.work@gmail.com",
@@ -63,6 +64,9 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/l%C3%AA-tr%E1%BB%B1c-67a3802b7/",
   motto: "Code with purpose, ship with confidence.",
   funFact: "Solving real business problems is more fun than chasing trends.",
+  siteUrl:
+    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
+    "https://nongdandev.com",
 };
 
 export const heroCode = `const letruc = {

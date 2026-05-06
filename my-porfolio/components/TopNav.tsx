@@ -59,7 +59,7 @@ export function TopNav() {
 
 			{open && (
 				<div className='md:hidden border-t border-hairline bg-canvas'>
-					<nav className='mx-auto max-w-[1200px] px-6 py-4 flex flex-col gap-1'>
+					<nav className='mx-auto max-w-300 px-6 py-4 flex flex-col gap-1'>
 						{navLinks.map((link) => (
 							<a
 								key={link.href}

@@ -35,11 +35,11 @@ const letruc = {
 };
 ```
 
-- 🔭 Đang làm việc với các hệ thống **CRM** outsource quy mô **5K – 10K users**
-- 🌱 Đang học thêm về **Angular**, **CI/CD Workflow** và **Proxmox** (homelab/virtualization)
-- 🎯 Mục tiêu sắp tới: **System Design**, **Microservices** & **Cloud-native**
-- 💡 Yêu thích viết code sạch, kiến trúc rõ ràng và tối ưu hiệu năng
-- 📫 Liên hệ: **letruc.work@gmail.com**
+- 🔭 Currently working on outsourced **CRM** systems serving **5K – 10K users**
+- 🌱 Learning **Angular**, **CI/CD workflows**, and **Proxmox** (homelab/virtualization)
+- 🎯 Next goals: **System Design**, **Microservices**, and **Cloud-native** architectures
+- 💡 Passionate about clean code, clear architecture, and performance optimization
+- 📫 Contact: **letruc.work@gmail.com**
 - ⚡ Fun fact: *"Solving real business problems is more fun than chasing trends."*
 
 ---
@@ -103,19 +103,19 @@ const letruc = {
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 </p>
 
-> 🚀 *Hành trình hiện tại: mở rộng từ frontend → fullstack → infrastructure & homelab. Tin rằng hiểu cả "stack" giúp build sản phẩm tốt hơn.*
+> 🚀 *Current journey: expanding from frontend → fullstack → infrastructure & homelab. I believe understanding the entire stack helps build better products.*
 
 ---
 
 ## 🚀 Featured Projects
 
-> 🔒 **Lưu ý:** Cả 2 dự án dưới đây là **dự án outsource theo hợp đồng với khách hàng**.  
-> Do điều khoản **NDA (Non-Disclosure Agreement)**, tôi không thể công khai mã nguồn, tên khách hàng, screenshots hay chi tiết kỹ thuật cụ thể. Thông tin bên dưới chỉ mang tính tổng quan về phạm vi & vai trò.
+> 🔒 **Note:** Both projects below are **outsourced under client contracts**.  
+> Due to **NDA (Non-Disclosure Agreement)** terms, I cannot publicly share source code, client names, screenshots, or specific technical details. The information below is a high-level overview of scope and role only.
 
 ---
 
 ### 💼 CRM System – Finance & Accounting Platform
-> Hệ thống CRM outsource phục vụ doanh nghiệp với module tài chính – kế toán toàn diện.
+> An outsourced CRM system serving enterprises with a comprehensive finance & accounting module.
 
 <p>
   <img src="https://img.shields.io/badge/Status-Delivered-success?style=flat-square" />
@@ -126,17 +126,17 @@ const letruc = {
 </p>
 
 **🎯 Key Features**
-- 👥 Quản lý người dùng, phân quyền RBAC
-- 💰 Quản lý tài chính & kế toán doanh nghiệp
-- 💳 Xử lý thanh toán (payment gateway integration)
-- 🌳 Tính năng **hoa hồng đa cấp (MLM commission)** với cây phả hệ nhiều tầng
-- 📊 Dashboard & báo cáo realtime
+- 👥 User management with RBAC permissions
+- 💰 Enterprise finance & accounting management
+- 💳 Payment processing (payment gateway integration)
+- 🌳 **Multi-level marketing (MLM) commission** with multi-tier genealogy tree
+- 📊 Real-time dashboards & reporting
 
 **👨‍💻 My Role**
-- 🎨 Đảm nhiệm **100% frontend** (Next.js) – từ thiết kế UI/UX đến tối ưu hiệu năng
-- 🤝 Phối hợp trực tiếp với team **Backend Python (FastAPI)** và **PHP WordPress API**
-- 🗣️ Làm việc trực tiếp với **khách hàng** để chốt **logic nghiệp vụ** và **yêu cầu giao diện**
-- 🔄 Tham gia review & đề xuất cải tiến luồng dữ liệu giữa frontend ↔ backend
+- 🎨 Owned **100% of the frontend** (Next.js) – from UI/UX design to performance optimization
+- 🤝 Collaborated directly with the **Python (FastAPI) backend** team and **PHP WordPress API** team
+- 🗣️ Worked directly with the **client** to finalize **business logic** and **UI requirements**
+- 🔄 Reviewed and proposed improvements to the data flow between frontend and backend
 
 **🧱 Tech Stack**
 <p>
@@ -147,12 +147,12 @@ const letruc = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-> 🔐 *Mã nguồn và chi tiết khách hàng không được công khai do ràng buộc hợp đồng.*
+> 🔐 *Source code and client details are not publicly available due to contractual obligations.*
 
 ---
 
 ### 💼 CRM System – User & Payment Management
-> Hệ thống CRM outsource thứ 2 tập trung vào quản lý user và luồng thanh toán quy mô lớn.
+> A second outsourced CRM system focused on user management and large-scale payment flows.
 
 <p>
   <img src="https://img.shields.io/badge/Status-Delivered-success?style=flat-square" />
@@ -163,17 +163,17 @@ const letruc = {
 </p>
 
 **🎯 Key Features**
-- 🔐 User management với multi-role authentication
-- 🧾 Quản lý kế toán & đối soát giao dịch
-- 💸 Tích hợp cổng thanh toán, xử lý transaction
-- 🌳 Module **hoa hồng đa cấp (MLM)** – tính toán & hiển thị cây hoa hồng
-- 📈 Tối ưu hiệu năng cho hệ thống nhiều người dùng đồng thời
+- 🔐 User management with multi-role authentication
+- 🧾 Accounting management & transaction reconciliation
+- 💸 Payment gateway integration & transaction processing
+- 🌳 **Multi-level marketing (MLM)** module – commission calculation & tree visualization
+- 📈 Performance optimization for systems with high concurrent user load
 
 **👨‍💻 My Role**
-- 🎨 Đảm nhiệm **100% frontend** (Next.js) – kiến trúc component, state management, performance tuning
-- 🤝 Phối hợp với team **Backend Python (FastAPI)** cho core API và **PHP WordPress** cho module MLM commission
-- 🗣️ Làm việc trực tiếp với **khách hàng** để hiểu rõ **business logic**, chốt **mong muốn về UI/UX**
-- 🧩 Đề xuất cấu trúc API & giao diện phù hợp với scale 5K+ users đồng thời
+- 🎨 Owned **100% of the frontend** (Next.js) – component architecture, state management, performance tuning
+- 🤝 Collaborated with the **Python (FastAPI) backend** team for the core API and **PHP WordPress** for the MLM commission module
+- 🗣️ Worked directly with the **client** to deeply understand **business logic** and finalize **UI/UX expectations**
+- 🧩 Proposed API and UI structures suited for 5K+ concurrent users
 
 **🧱 Tech Stack**
 <p>
@@ -184,11 +184,11 @@ const letruc = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-> 🔐 *Mã nguồn và chi tiết khách hàng không được công khai do ràng buộc hợp đồng.*
+> 🔐 *Source code and client details are not publicly available due to contractual obligations.*
 
 ---
 
-> 💬 **Muốn biết thêm?** Nếu bạn quan tâm đến kinh nghiệm cụ thể (kiến trúc, xử lý performance, tích hợp payment...), hãy liên hệ với tôi qua email — tôi sẵn lòng chia sẻ ở mức độ cho phép.
+> 💬 **Want to know more?** If you're interested in specific experiences (architecture, performance handling, payment integration, etc.), feel free to reach out via email — I'm happy to share whatever the NDA permits.
 
 ---
 
@@ -202,35 +202,35 @@ const letruc = {
 
 </div>
 
-> 💡 *"Hai dự án CRM này không chỉ là cột mốc tài chính – mà còn là **trường học thực chiến** lớn nhất của tôi cho đến hiện tại."*
+> 💡 *"These two CRM projects weren't just a financial milestone — they've been my biggest **real-world classroom** so far."*
 
 ### 💰 Achievement
-- 💵 **Kiếm được $15,000+** từ 2 dự án outsource khi mới **20 tuổi** – cột mốc tài chính đầu tiên trong sự nghiệp lập trình.
-- 🌟 Khẳng định khả năng làm việc độc lập, chịu trách nhiệm 100% phần frontend cho hệ thống thực tế quy mô **5K – 10K users**.
+- 💵 **Earned $15,000+** from 2 outsourced projects at just **20 years old** – my first major financial milestone in my programming career.
+- 🌟 Proved my ability to work independently and take 100% ownership of the frontend for real-world systems serving **5K – 10K users**.
 
 ### 📚 What I Learned
 
 **🎨 Frontend Mastery**
-- Sâu hơn về **Next.js**: SSR, ISR, App Router, performance optimization
-- State management cho hệ thống phức tạp với hàng chục module
-- UI/UX-thinking khi làm việc trực tiếp với khách hàng – cách "dịch" mong muốn nghiệp vụ thành giao diện
+- Deeper grasp of **Next.js**: SSR, ISR, App Router, performance optimization
+- State management for complex systems with dozens of modules
+- UI/UX thinking when working directly with clients – translating business needs into interfaces
 
-**🐳 Docker & DevOps** *(skill mới được bổ sung từ 2 dự án này)*
-- Containerize ứng dụng Next.js, đóng gói môi trường dev/staging/production nhất quán
-- Viết **Dockerfile** & **docker-compose** cho stack đa service (Next.js + FastAPI + WordPress + MySQL)
-- Hiểu sâu hơn về image layering, multi-stage build và tối ưu kích thước image
+**🐳 Docker & DevOps** *(new skills picked up from these 2 projects)*
+- Containerizing Next.js applications and packaging consistent dev/staging/production environments
+- Writing **Dockerfile** & **docker-compose** for multi-service stacks (Next.js + FastAPI + WordPress + MySQL)
+- Deeper understanding of image layering, multi-stage builds, and image size optimization
 
 **🌐 Networking & Infrastructure**
-- 🔁 **Reverse Proxy** (Nginx): routing nhiều service dưới cùng một domain, xử lý SSL termination
-- ⚖️ **Load Balancing**: phân phối traffic cho hệ thống nhiều người dùng đồng thời
-- 🔌 **Networking cơ bản**: DNS, ports, internal network giữa các container, firewall rules
-- 🛡️ Cấu hình rate limiting, CORS, security headers ở tầng proxy
+- 🔁 **Reverse Proxy** (Nginx): routing multiple services under one domain, handling SSL termination
+- ⚖️ **Load Balancing**: distributing traffic for systems with high concurrent user load
+- 🔌 **Networking fundamentals**: DNS, ports, internal container networking, firewall rules
+- 🛡️ Configuring rate limiting, CORS, and security headers at the proxy layer
 
 ### 🎯 Soft Skills Gained
-- 🗣️ **Giao tiếp với khách hàng**: chốt requirement, push back hợp lý khi yêu cầu phi thực tế
-- 🤝 **Làm việc cross-team**: phối hợp với backend Python & PHP WordPress dù khác ngôn ngữ
-- ⏰ **Quản lý deadline**: deliver đúng cam kết hợp đồng cho cả 2 dự án
-- 🧠 **Tư duy kiến trúc hệ thống**: nhìn "bức tranh tổng thể" thay vì chỉ code component
+- 🗣️ **Client communication**: locking down requirements and pushing back appropriately on unrealistic asks
+- 🤝 **Cross-team collaboration**: working with Python and PHP WordPress backends despite different stacks
+- ⏰ **Deadline management**: delivering on contractual commitments for both projects
+- 🧠 **Systems thinking**: seeing the "big picture" instead of just coding components
 
 ---
 
@@ -265,13 +265,13 @@ const letruc = {
 
 <div align="center">
 
-<a href="mailto:hoangson080195@gmail.com">
+<a href="mailto:letruc.work@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/letrucdev">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/l%C3%AA-tr%E1%BB%B1c-67a3802b7/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

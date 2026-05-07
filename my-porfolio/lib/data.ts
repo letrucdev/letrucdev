@@ -252,7 +252,7 @@ export const projects: Project[] = [
 			'User flows: deposit, withdrawal, transactions history, game catalog & detail, affiliate/MLM with referral-tree map, realtime notification center, profile',
 			'Admin flows: user management (active/block, KYC verification requests), deposit/withdrawal approval, revenue and transaction reporting',
 			'Super-Admin flows: admin manager, game manager, exchange-rate and Binance price-source management, MLM commission policy, theme & metakey manager, system statistics',
-			'Game Admin console: room list, session/round configuration, jackpot configuration, system settings',
+			'Game Admin console: room list, session/round configuration, game configuration, system settings',
 			'Realtime notifications over Socket.IO — JWT-authenticated handshake, per-user and per-role rooms, transactional and custom push events with REST companion endpoints',
 			'EN/VI internationalization with next-intl, dark mode with next-themes, dashboards via recharts, MLM tree via react-organizational-chart',
 			'Redis (ioredis) for shared session and hot-data cache; full stack packaged with Docker Compose (4 frontends + FastAPI backend + PHP/WordPress MLM service + socket gateway + Redis + MySQL)',

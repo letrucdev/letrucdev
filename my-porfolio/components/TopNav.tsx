@@ -21,7 +21,8 @@ export function TopNav() {
 				<a href='#top' className='flex items-center gap-2 text-ink'>
 					<BrandMark size={20} />
 					<span className='text-[15px] font-medium tracking-tight'>
-						{profile.name}
+						{profile.fullName}{' '}
+						<span className='text-muted font-normal'>({profile.name})</span>
 					</span>
 				</a>
 

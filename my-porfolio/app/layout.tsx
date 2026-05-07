@@ -23,7 +23,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 const siteName = `${profile.fullName} — ${profile.role}`;
-const titleDefault = `${profile.name} — ${profile.role}`;
+const titleDefault = `${profile.fullName} — ${profile.role}`;
 const description =
   "Le Truc (letrucdev) — Full-Stack Developer based in Hoan Kiem, Vietnam. Building scalable CRM systems for 5K–10K users with Next.js, NestJS, Laravel, and .NET Core.";
 

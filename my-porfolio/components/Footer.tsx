@@ -40,7 +40,10 @@ export function Footer() {
 						<div className='flex items-center gap-2 text-on-dark'>
 							<BrandMark size={20} />
 							<span className='text-[15px] font-medium tracking-tight'>
-								{profile.name}
+								{profile.fullName}{' '}
+								<span className='text-on-dark-soft font-normal'>
+									({profile.name})
+								</span>
 							</span>
 						</div>
 						<p className='mt-4 text-[14px] leading-relaxed max-w-xs'>
@@ -109,8 +112,8 @@ export function Footer() {
 
 				<div className='mt-12 pt-8 border-t border-surface-dark-elevated flex flex-col md:flex-row md:items-center md:justify-between gap-3'>
 					<p className='text-[13px] text-on-dark-soft'>
-						&copy; {new Date().getFullYear()} {profile.name}. All rights
-						reserved.
+						&copy; {new Date().getFullYear()} {profile.fullName} ({profile.name}).
+						All rights reserved.
 					</p>
 					<p className='text-[13px] text-on-dark-soft'>{profile.motto}</p>
 				</div>

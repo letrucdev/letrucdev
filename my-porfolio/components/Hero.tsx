@@ -12,7 +12,7 @@ export function Hero() {
 				<div className='min-w-0'>
 					<div className='inline-flex items-center gap-2 text-[12px] font-medium uppercase tracking-[0.18em] text-muted'>
 						<span className='block w-1.5 h-1.5 rounded-full bg-primary' />
-						{profile.role}
+						{profile.fullName} · {profile.role}
 					</div>
 
 					<h1 className='mt-6 font-serif font-medium text-[34px] sm:text-[44px] md:text-[56px] lg:text-[68px] leading-[1.1] sm:leading-[1.06] lg:leading-[1.04] tracking-[-0.02em] text-ink wrap-break-word'>
@@ -20,10 +20,11 @@ export function Hero() {
 					</h1>
 
 					<p className='mt-5 sm:mt-6 max-w-xl text-[15px] sm:text-[17px] leading-[1.6] text-body'>
-						I&apos;m {profile.name} — a Full-Stack Developer who has shipped CRM
-						systems serving 5K – 10K users. I work across React, Next.js,
-						NestJS, Laravel, and .NET Core, and I care about clean architecture,
-						performance, and the business problem behind the code.
+						I&apos;m {profile.fullName} ({profile.name}) — a Full-Stack Developer
+						who has shipped CRM systems serving 5K – 10K users. I work across
+						React, Next.js, NestJS, Laravel, and .NET Core, and I care about
+						clean architecture, performance, and the business problem behind the
+						code.
 					</p>
 
 					<div className='mt-5 flex items-center gap-2 text-[14px] text-muted'>

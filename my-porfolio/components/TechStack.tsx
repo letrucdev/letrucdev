@@ -24,7 +24,7 @@ export function TechStack() {
 								<h3 className='text-[12px] uppercase tracking-[0.15em] font-medium text-on-dark-soft mb-4'>
 									{group.label}
 								</h3>
-								<div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3'>
+								<div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3'>
 									{group.items.map((item) => {
 										const Icon = item.icon
 										return (
@@ -39,7 +39,7 @@ export function TechStack() {
 													color={item.color}
 													style={{ flexShrink: 0 }}
 												/>
-												<span className='text-[14px] font-medium text-on-dark truncate'>
+												<span className='text-[14px] font-medium text-on-dark leading-tight'>
 													{item.name}
 												</span>
 											</div>
